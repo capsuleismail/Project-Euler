@@ -1,23 +1,39 @@
 <table>
   <thead>
     <tr>
-      <th>Name</th>
-      <th>KYU</th>
-      <th>Tags</th>
+      <th>Problem</th>
+      <th>Number</th>
     </tr>
   </thead>
   <tbody>
-
-      <tr>
-      <td align="center"><a href="https://github.com/capsuleismail/CodeWars/blob/main/"> </a></td>
+    <tr>
+      <td align="center"><a href="https://github.com/capsuleismail/Project-Euler/blob/main/greatest_common_divisor.py">problem34.py
+</a></td>
+      <td align="center">34</td>
+    </tr>
+    <tr>
       <td align="center"></td>
       <td align="center"></td>
     </tr>
     <tr>
-      <td align="center"><a href="https://github.com/capsuleismail/CodeWars/blob/main/"> </a></td>
       <td align="center"></td>
       <td align="center"></td>
     </tr>
-
+    <tr>
+      <td align="center"></td>
+      <td align="center"></td>
+    </tr>
+    <tr>
+      <td align="center"></td>
+      <td align="center"></td>
+    </tr>
+    <tr>
+      <td align="center"></td>
+      <td align="center"></td>
+    </tr>
+    <tr>
+      <td align="center"></td>
+      <td align="center"></td>
+    </tr>
   </tbody>
 </table>
