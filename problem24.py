@@ -7,4 +7,4 @@ def permutate(lists):
     return [[lists[i]] + p for i in range(len(lists)) for p in permutate(lists[:i] + lists[i + 1:])]
 
 
-print(len(permutate(lists)))
+print(''.join(map(str, permutate(lists)[999999])))
