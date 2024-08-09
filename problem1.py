@@ -1,5 +1,12 @@
-def mlt_three_or_five():
-    return sum([i for i in range(1, 1000) if (i % 3 == 0) or (i % 5 == 0)])
+# staircase
+def stair(n):
+  table = [1] + [0] * n
+  for brick in range(1, n + 1):
+    for heigth in range(n, brick - 1, -1):
+      table[heigth] += table[heigth - brick]
+  return table[-1] - 1
 
 
-print(mlt_three_or_five())
+print(stair(5))
+print(stair(6))
+print(stair(7))
