@@ -123,8 +123,8 @@
       <td align="center"></td>
     </tr>
     <tr>
-      <td align="center"></td>
-      <td align="center"></td>
+      <td align="center"><a href="https://github.com/capsuleismail/Project-Euler/blob/main/problem30.py">problem30.py</a></td>
+      <td align="center">Digit Fifth Powers</td>
     </tr>
     <tr>
       <td align="center"></td>
