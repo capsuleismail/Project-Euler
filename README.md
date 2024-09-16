@@ -108,7 +108,7 @@
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/capsuleismail/Project-Euler/blob/main/problem26.py">problem26.py</a></td>
-      <td align="center"></td>
+      <td align="center">Reciprocal Cycles</td>
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/capsuleismail/Project-Euler/blob/main/problem27.py">problem27.py</a></td>
