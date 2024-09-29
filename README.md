@@ -112,11 +112,11 @@
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/capsuleismail/Project-Euler/blob/main/problem27.py">problem27.py</a></td>
-      <td align="center"></td>
+      <td align="center">Quadratic Primes</td>
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/capsuleismail/Project-Euler/blob/main/problem28.py">problem28.py</a></td>
-      <td align="center"></td>
+      <td align="center">Number Spiral Diagonals</td>
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/capsuleismail/Project-Euler/blob/main/problem29.py">problem29.py</a></td>
