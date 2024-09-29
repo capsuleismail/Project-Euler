@@ -120,7 +120,7 @@
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/capsuleismail/Project-Euler/blob/main/problem29.py">problem29.py</a></td>
-      <td align="center"></td>
+      <td align="center">Distinct Powers</td>
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/capsuleismail/Project-Euler/blob/main/problem30.py">problem30.py</a></td>
