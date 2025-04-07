@@ -131,8 +131,8 @@
       <td align="center"></td>
     </tr>
     <tr>
-      <td align="center"></td>
-      <td align="center"></td>
+      <td align="center"><a href="https://github.com/capsuleismail/Project-Euler/blob/main/problem32.py">problem32.py</a></td>
+      <td align="center">Pandigital Products</td>
     </tr>
     <tr>
       <td align="center"></td>
