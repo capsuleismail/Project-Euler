@@ -1,8 +1,8 @@
 <table>
   <thead>
     <tr>
-      <th>Problem</th>
-      <th>Name</th>
+      <th> <strong>Problem</strong></th>
+      <th> <strong>Name</strong></th>
     </tr>
   </thead>
   <tbody>
@@ -136,19 +136,15 @@
     </tr>
     <tr>
       <td align="center"></td>
-      <td align="center"></td>
-    </tr>
-    <tr>
-      <td align="center"></td>
-      <td align="center"></td>
-    </tr>
-    <tr>
-      <td align="center"></td>
-      <td align="center"></td>
+      <td align="center">Digit Cancelling Fractions</td>
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/capsuleismail/Project-Euler/blob/main/problem34.py">problem34.py</a></td>
       <td align="center">Digit Factorials</td>
+    </tr>
+    <tr>
+      <td align="center">problem35.py</td>
+      <td align="center">Circular Primes</td>
     </tr>
   </tbody>
 </table>
