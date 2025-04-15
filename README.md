@@ -135,7 +135,7 @@
       <td align="center">Pandigital Products</td>
     </tr>
     <tr>
-      <td align="center"></td>
+      <td align="center"><a href="https://github.com/capsuleismail/Project-Euler/blob/main/problem34.py">problem34.py</a></td>
       <td align="center">Digit Cancelling Fractions</td>
     </tr>
     <tr>
